@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prashanth%20Adibhatla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gen%20AI%20%C2%B7%20Backend%20%C2%B7%20GPU%20%26%20Systems%20%C2%B7%20Emulation%20%C2%B7%20Competitive%20Programming&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prashanth%20Adibhatla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gen%20AI%20%7C%20Backend%20%7C%20GPU%20%7C%20Emulation%20%7C%20Competitive%20Programming&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+RAG+%26+LLM+apps+with+Pinecone+%2B+LangChain+%2B+Spring+AI+%F0%9F%A4%96;Shipping+Spring+Boot+microservices+with+Spring+JDBC+%E2%98%95;Writing+CUDA+C%2B%2B+kernels+for+Python+%E2%9A%A1;Emulating+the+PlayStation+1+in+C%2B%2B+%F0%9F%95%B9%EF%B8%8F;Competitive+programmer+%7C+Hackathon+builder+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+RAG+and+LLM+apps+with+Pinecone+%2B+LangChain+%2B+Spring+AI+%F0%9F%A4%96;Shipping+Spring+Boot+microservices+with+Spring+JDBC+%E2%98%95;Writing+CUDA+C%2B%2B+kernels+for+Python+%E2%9A%A1;Emulating+the+PlayStation+1+in+C%2B%2B+%F0%9F%95%B9%EF%B8%8F;Competitive+programmer+%7C+Hackathon+builder+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
